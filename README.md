@@ -44,4 +44,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ by Rocketseat 
+Feito por Rickelme Santos Costa | Projeto desenvolvido durante os estudos com a Rockeseat
